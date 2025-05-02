@@ -1,0 +1,62 @@
+[
+  {
+    "agentName": "John Smith",
+    "telegramId": "@johnsmith123",
+    "payInVolume": 5000,
+    "payoutVolume": 4500,
+    "payInCommission": 2.5,
+    "payoutCommission": 3,
+    "servicesProvided": [
+      "binance",
+      "usdtTrc20"
+    ],
+    "walletsPromised": [
+      "binance",
+      "paypal"
+    ],
+    "walletsProvided": [
+      "binance"
+    ],
+    "timestamp": "2025-05-02T12:40:09.765544"
+  },
+  {
+    "agentName": "xzxzc",
+    "telegramId": "svssvsv2",
+    "payInVolume": 3242,
+    "payoutVolume": 234234,
+    "payInCommission": 2,
+    "payoutCommission": 2,
+    "servicesProvided": [
+      "bkash",
+      "nagad"
+    ],
+    "walletsPromised": [
+      "nagad"
+    ],
+    "walletsProvided": [
+      "nagad",
+      "agent"
+    ],
+    "timestamp": "2025-05-02T12:57:01.087048"
+  },
+  {
+    "agentName": "xzxzc",
+    "telegramId": "svssvsv2",
+    "payInVolume": 3242,
+    "payoutVolume": 234234,
+    "payInCommission": 2,
+    "payoutCommission": 2,
+    "servicesProvided": [
+      "bkash",
+      "nagad"
+    ],
+    "walletsPromised": [
+      "nagad"
+    ],
+    "walletsProvided": [
+      "nagad",
+      "agent"
+    ],
+    "timestamp": "2025-05-02T12:57:01.088859"
+  }
+]
